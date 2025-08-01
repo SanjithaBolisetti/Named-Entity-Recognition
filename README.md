@@ -20,9 +20,7 @@ The system accepts:
 
 ## Output
 A dictionary with keys:
-python
-Copy
-Edit
+```
 {
   "Name": "John Doe",
   "Skills": ["python", "machine learning", ...],
@@ -30,6 +28,7 @@ Edit
   "Institutions": ["IIT Bombay", "Infosys"],
   "Experience": ["Led a team...", "Worked as a designer...", ...]
 }
+```
 
 ## Installation
 Install required libraries:
